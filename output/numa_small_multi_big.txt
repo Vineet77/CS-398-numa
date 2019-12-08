@@ -1,0 +1,3 @@
+# size cpu-cycles node-load-misses offcore_response.demand_data_rd.llc_miss.local_dram offcore_response.demand_data_rd.llc_miss.remote_dram offcore_response.demand_data_rd.llc_miss.remote_hit_forward offcore_response.demand_data_rd.llc_miss.remote_hitm
+4294967296 412990671960 16040122 7895658 14155240 64668 135538
+8589934592 818183382102 22460157 15054470 17641412 119964 235616

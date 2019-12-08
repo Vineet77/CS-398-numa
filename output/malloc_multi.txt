@@ -1,0 +1,1 @@
+# size cpu-cycles node-load-misses offcore_response.demand_data_rd.llc_miss.local_dram offcore_response.demand_data_rd.llc_miss.remote_dram offcore_response.demand_data_rd.llc_miss.remote_hit_forward offcore_response.demand_data_rd.llc_miss.remote_hitm
